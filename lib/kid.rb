@@ -8,3 +8,7 @@ class Kid
     @name = name
   end 
 end 
+
+class Kid 
+  extend MetaDancing 
+end
